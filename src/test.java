@@ -1,4 +1,4 @@
 
 public class test {
-int d;
+int last_Schange;
 }
